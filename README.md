@@ -9,7 +9,7 @@
 
 - 🌱 I’m extensively currently learning **pyspark,ML,SQL,Power BI**
 
-- 📫 How to reach me **jaiswalvishal@gmail.com**
+- 📫 How to reach me **jaxwalvishal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
